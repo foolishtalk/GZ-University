@@ -1,0 +1,658 @@
+[
+  {
+    "department" : "教育部",
+    "location" : "广州市",
+    "schoolname" : "中山大学",
+    "degree" : "本科",
+    "number" : "1",
+    "mark" : ""
+  },
+  {
+    "department" : "国务院侨办",
+    "location" : "广州市",
+    "schoolname" : "暨南大学",
+    "degree" : "本科",
+    "number" : "2",
+    "mark" : ""
+  },
+  {
+    "department" : "教育部",
+    "location" : "广州市",
+    "schoolname" : "华南理工大学",
+    "degree" : "本科",
+    "number" : "3",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "华南农业大学",
+    "degree" : "本科",
+    "number" : "4",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广州医科大学",
+    "degree" : "本科",
+    "number" : "5",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广州中医药大学",
+    "degree" : "本科",
+    "number" : "6",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东药科大学",
+    "degree" : "本科",
+    "number" : "7",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "华南师范大学",
+    "degree" : "本科",
+    "number" : "8",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广州体育学院",
+    "degree" : "本科",
+    "number" : "9",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广州美术学院",
+    "degree" : "本科",
+    "number" : "10",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "星海音乐学院",
+    "degree" : "本科",
+    "number" : "11",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东技术师范学院",
+    "degree" : "本科",
+    "number" : "12",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东财经大学",
+    "degree" : "本科",
+    "number" : "13",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "广东白云学院",
+    "degree" : "本科",
+    "number" : "14",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广州大学",
+    "degree" : "本科",
+    "number" : "15",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广州航海学院",
+    "degree" : "本科",
+    "number" : "16",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东警官学院",
+    "degree" : "本科",
+    "number" : "17",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "仲恺农业工程学院",
+    "degree" : "本科",
+    "number" : "18",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东金融学院",
+    "degree" : "本科",
+    "number" : "19",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东工业大学",
+    "degree" : "本科",
+    "number" : "20",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东外语外贸大学",
+    "degree" : "本科",
+    "number" : "21",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "广东培正学院",
+    "degree" : "本科",
+    "number" : "22",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "南方医科大学",
+    "degree" : "本科",
+    "number" : "23",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "华南理工大学广州学院",
+    "degree" : "本科",
+    "number" : "24",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "广州大学华软软件学院",
+    "degree" : "本科",
+    "number" : "25",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "中山大学南方学院",
+    "degree" : "本科",
+    "number" : "26",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "广东外语外贸大学南国商学院",
+    "degree" : "本科",
+    "number" : "27",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "广东财经大学华商学院",
+    "degree" : "本科",
+    "number" : "28",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "华南农业大学珠江学院",
+    "degree" : "本科",
+    "number" : "29",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "广东技术师范学院天河学院",
+    "degree" : "本科",
+    "number" : "30",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "广东工业大学华立学院",
+    "degree" : "本科",
+    "number" : "31",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "广州大学松田学院",
+    "degree" : "本科",
+    "number" : "32",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "广州商学院",
+    "degree" : "本科",
+    "number" : "33",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "广州工商学院",
+    "degree" : "本科",
+    "number" : "34",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "中山大学新华学院",
+    "degree" : "本科",
+    "number" : "35",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东第二师范学院",
+    "degree" : "本科",
+    "number" : "36",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东轻工职业技术学院",
+    "degree" : "专科",
+    "number" : "37",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东交通职业技术学院",
+    "degree" : "专科",
+    "number" : "38",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东水利电力职业技术学院",
+    "degree" : "专科",
+    "number" : "39",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东南华工商职业学院",
+    "degree" : "专科",
+    "number" : "40",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "私立华联学院",
+    "degree" : "专科",
+    "number" : "41",
+    "mark" : "民办"
+  },
+  {
+    "department" : "交通运输部",
+    "location" : "广州市",
+    "schoolname" : "广州民航职业技术学院",
+    "degree" : "专科",
+    "number" : "42",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广州番禺职业技术学院",
+    "degree" : "专科",
+    "number" : "43",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东农工商职业技术学院",
+    "degree" : "专科",
+    "number" : "44",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东科学技术职业学院",
+    "degree" : "专科",
+    "number" : "45",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东食品药品职业学院",
+    "degree" : "专科",
+    "number" : "46",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "广州康大职业技术学院",
+    "degree" : "专科",
+    "number" : "47",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东行政职业学院",
+    "degree" : "专科",
+    "number" : "48",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东体育职业技术学院",
+    "degree" : "专科",
+    "number" : "49",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东建设职业技术学院",
+    "degree" : "专科",
+    "number" : "50",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东女子职业技术学院",
+    "degree" : "专科",
+    "number" : "51",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东机电职业技术学院",
+    "degree" : "专科",
+    "number" : "52",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "广东岭南职业技术学院",
+    "degree" : "专科",
+    "number" : "53",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东邮电职业技术学院",
+    "degree" : "专科",
+    "number" : "54",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东工贸职业技术学院",
+    "degree" : "专科",
+    "number" : "55",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东司法警官职业学院",
+    "degree" : "专科",
+    "number" : "56",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东省外语艺术职业学院",
+    "degree" : "专科",
+    "number" : "57",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东文艺职业学院",
+    "degree" : "专科",
+    "number" : "58",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广州体育职业技术学院",
+    "degree" : "专科",
+    "number" : "59",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广州工程技术职业学院",
+    "degree" : "专科",
+    "number" : "60",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "广州涉外经济职业技术学院",
+    "degree" : "专科",
+    "number" : "61",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "广州南洋理工职业学院",
+    "degree" : "专科",
+    "number" : "62",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "广州科技职业技术学院",
+    "degree" : "专科",
+    "number" : "63",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东理工职业学院",
+    "degree" : "专科",
+    "number" : "65",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "广州华南商贸职业学院",
+    "degree" : "专科",
+    "number" : "66",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "广州华立科技职业学院",
+    "degree" : "专科",
+    "number" : "67",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广州城市职业学院",
+    "degree" : "专科",
+    "number" : "68",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东工程职业技术学院",
+    "degree" : "专科",
+    "number" : "69",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广州铁路职业技术学院",
+    "degree" : "专科",
+    "number" : "70",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东科贸职业学院",
+    "degree" : "专科",
+    "number" : "71",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广州科技贸易职业学院",
+    "degree" : "专科",
+    "number" : "72",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "广州珠江职业技术学院",
+    "degree" : "专科",
+    "number" : "73",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "广州松田职业学院",
+    "degree" : "专科",
+    "number" : "74",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "广州城建职业学院",
+    "degree" : "专科",
+    "number" : "75",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "广州华商职业学院",
+    "degree" : "专科",
+    "number" : "76",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "广州华夏职业学院",
+    "degree" : "专科",
+    "number" : "77",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东青年职业学院",
+    "degree" : "专科",
+    "number" : "78",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省教育厅",
+    "location" : "广州市",
+    "schoolname" : "广州东华职业学院",
+    "degree" : "专科",
+    "number" : "79",
+    "mark" : "民办"
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东舞蹈戏剧职业学院",
+    "degree" : "专科",
+    "number" : "80",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广东生态工程职业学院",
+    "degree" : "专科",
+    "number" : "81",
+    "mark" : ""
+  },
+  {
+    "department" : "公安部",
+    "location" : "广州市",
+    "schoolname" : "公安边防部队高等专科学校",
+    "degree" : "专科",
+    "number" : "82",
+    "mark" : ""
+  },
+  {
+    "department" : "广东省",
+    "location" : "广州市",
+    "schoolname" : "广州卫生职业技术学院",
+    "degree" : "专科",
+    "number" : "83",
+    "mark" : ""
+  }
+]

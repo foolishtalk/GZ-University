@@ -1,0 +1,822 @@
+[
+  {
+    "mark" : "",
+    "longitude" : 113.58439,
+    "latitude" : 22.332305999999999,
+    "number" : "1",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "中山大学",
+    "department" : "教育部"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.53106699999999,
+    "latitude" : 22.249448999999998,
+    "number" : "2",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "暨南大学",
+    "department" : "国务院侨办"
+  },
+  {
+    "mark" : "",
+    "longitude" : 114.17522599999999,
+    "latitude" : 22.827282,
+    "number" : "3",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "华南理工大学",
+    "department" : "教育部"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.345648,
+    "latitude" : 23.163996999999998,
+    "number" : "4",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "华南农业大学",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.256112,
+    "latitude" : 23.134056999999999,
+    "number" : "5",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "广州医科大学",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.26375299999999,
+    "latitude" : 23.155453000000001,
+    "number" : "6",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "广州中医药大学",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.411751,
+    "latitude" : 22.481766,
+    "number" : "7",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "广东药科大学",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.35154,
+    "latitude" : 23.135581999999999,
+    "number" : "8",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "华南师范大学",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.319108,
+    "latitude" : 23.143488999999999,
+    "number" : "9",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "广州体育学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.807591,
+    "latitude" : 23.037292000000001,
+    "number" : "10",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "广州美术学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 115.739996,
+    "latitude" : 24.135674999999999,
+    "number" : "11",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "星海音乐学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.28958900000001,
+    "latitude" : 23.096125000000001,
+    "number" : "12",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "广东技术师范学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.35272999999999,
+    "latitude" : 23.090648999999999,
+    "number" : "13",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "广东财经大学",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.20941999999999,
+    "latitude" : 23.273077000000001,
+    "number" : "14",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "广东白云学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.26564500000001,
+    "latitude" : 23.149677000000001,
+    "number" : "15",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "广州大学",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.478964,
+    "latitude" : 23.101616,
+    "number" : "16",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "广州航海学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.30407,
+    "latitude" : 23.250620000000001,
+    "number" : "17",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "广东警官学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.444768,
+    "latitude" : 23.375039999999998,
+    "number" : "18",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "仲恺农业工程学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.38072200000001,
+    "latitude" : 23.202524,
+    "number" : "19",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "广东金融学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.39750100000001,
+    "latitude" : 23.037261999999998,
+    "number" : "20",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "广东工业大学",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.25094300000001,
+    "latitude" : 23.253522,
+    "number" : "21",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "广东外语外贸大学",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.09079,
+    "latitude" : 23.410388999999999,
+    "number" : "22",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "广东培正学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.334217,
+    "latitude" : 23.187206,
+    "number" : "23",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "南方医科大学",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.172819,
+    "latitude" : 23.43403,
+    "number" : "24",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "华南理工大学广州学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.49545999999999,
+    "latitude" : 23.451063000000001,
+    "number" : "25",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "广州大学华软软件学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.679287,
+    "latitude" : 23.632574999999999,
+    "number" : "26",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "中山大学南方学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.38406999999999,
+    "latitude" : 23.337934000000001,
+    "number" : "27",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "广东外语外贸大学南国商学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.78033000000001,
+    "latitude" : 23.257614,
+    "number" : "28",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "广东财经大学华商学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.58093599999999,
+    "latitude" : 23.511761,
+    "number" : "29",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "华南农业大学珠江学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.456675,
+    "latitude" : 23.259179,
+    "number" : "30",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "广东技术师范学院天河学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.864845,
+    "latitude" : 23.239612999999999,
+    "number" : "31",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "广东工业大学华立学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.726044,
+    "latitude" : 23.277076999999998,
+    "number" : "32",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "广州大学松田学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.568817,
+    "latitude" : 23.303581000000001,
+    "number" : "33",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "广州商学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 110.923789,
+    "latitude" : 21.665997000000001,
+    "number" : "34",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "广州工商学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.388009,
+    "latitude" : 23.195070000000001,
+    "number" : "35",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "中山大学新华学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.315815,
+    "latitude" : 23.098011,
+    "number" : "36",
+    "degree" : "本科",
+    "location" : "广州市",
+    "schoolname" : "广东第二师范学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.29958600000001,
+    "latitude" : 23.091123,
+    "number" : "37",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广东轻工职业技术学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.201706,
+    "latitude" : 23.369485999999998,
+    "number" : "38",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广东交通职业技术学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.615324,
+    "latitude" : 23.557271,
+    "number" : "39",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广东水利电力职业技术学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.32490199999999,
+    "latitude" : 23.165897000000001,
+    "number" : "40",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广东南华工商职业学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.40513799999999,
+    "latitude" : 23.157321,
+    "degree" : "专科",
+    "number" : "41",
+    "location" : "广州市",
+    "schoolname" : "私立华联学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.25762899999999,
+    "latitude" : 23.165277,
+    "number" : "42",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广州民航职业技术学院",
+    "department" : "交通运输部"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.307007,
+    "latitude" : 22.902587,
+    "number" : "43",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广州番禺职业技术学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.612791,
+    "latitude" : 23.285019999999999,
+    "number" : "44",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广东农工商职业技术学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.35269,
+    "latitude" : 22.121523,
+    "number" : "45",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广东科学技术职业学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.37574600000001,
+    "latitude" : 23.202345000000001,
+    "number" : "46",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广东食品药品职业学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.565699,
+    "latitude" : 23.308668999999998,
+    "number" : "47",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广州康大职业技术学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.18778,
+    "latitude" : 23.398561000000001,
+    "number" : "48",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广东行政职业学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.330343,
+    "latitude" : 23.147967000000001,
+    "number" : "49",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广东体育职业技术学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.24789199999999,
+    "latitude" : 23.268478000000002,
+    "number" : "50",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广东建设职业技术学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.466882,
+    "latitude" : 22.959012000000001,
+    "number" : "51",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广东女子职业技术学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.44721800000001,
+    "latitude" : 23.384083,
+    "number" : "52",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广东机电职业技术学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.416258,
+    "latitude" : 23.168078000000001,
+    "number" : "53",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广东岭南职业技术学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.363185,
+    "latitude" : 23.135961999999999,
+    "number" : "54",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广东邮电职业技术学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.45768700000001,
+    "latitude" : 23.404758000000001,
+    "number" : "55",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广东工贸职业技术学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.23020200000001,
+    "latitude" : 23.197077,
+    "number" : "56",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广东司法警官职业学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.339603,
+    "latitude" : 23.148835999999999,
+    "number" : "57",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广东省外语艺术职业学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.346008,
+    "latitude" : 22.970828999999998,
+    "number" : "58",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广东文艺职业学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.330343,
+    "latitude" : 23.147967000000001,
+    "number" : "59",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广州体育职业技术学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 112.80013599999999,
+    "latitude" : 22.253426000000001,
+    "number" : "60",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广州工程技术职业学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.35561300000001,
+    "latitude" : 23.257193999999998,
+    "number" : "61",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广州涉外经济职业技术学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.61526499999999,
+    "latitude" : 23.580606,
+    "number" : "62",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广州南洋理工职业学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.464431,
+    "latitude" : 23.402892999999999,
+    "number" : "63",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广州科技职业技术学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.216286,
+    "latitude" : 23.430426000000001,
+    "number" : "65",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广东理工职业学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.349012,
+    "latitude" : 23.166031,
+    "number" : "66",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广州华南商贸职业学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.86451,
+    "latitude" : 23.242457999999999,
+    "number" : "67",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广州华立科技职业学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.279301,
+    "latitude" : 23.128997999999999,
+    "number" : "68",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广州城市职业学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.377921,
+    "latitude" : 23.213460999999999,
+    "number" : "69",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广东工程职业技术学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.291982,
+    "latitude" : 23.128765999999999,
+    "number" : "70",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广州铁路职业技术学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.08751700000001,
+    "latitude" : 23.745806000000002,
+    "number" : "71",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广东科贸职业学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.392364,
+    "latitude" : 23.000253000000001,
+    "number" : "72",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广州科技贸易职业学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.82982800000001,
+    "latitude" : 23.268032999999999,
+    "number" : "73",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广州珠江职业技术学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.280637,
+    "latitude" : 23.125177999999998,
+    "number" : "74",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广州松田职业学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.610832,
+    "latitude" : 23.525119,
+    "number" : "75",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广州城建职业学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.78389,
+    "latitude" : 23.255559000000002,
+    "number" : "76",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广州华商职业学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 111.981391,
+    "latitude" : 21.850532000000001,
+    "number" : "77",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广州华夏职业学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.426636,
+    "latitude" : 23.368351000000001,
+    "number" : "78",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广东青年职业学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "民办",
+    "longitude" : 113.472448,
+    "latitude" : 23.254404999999998,
+    "number" : "79",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广州东华职业学院",
+    "department" : "广东省教育厅"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.06090500000001,
+    "latitude" : 23.097835,
+    "number" : "80",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广东舞蹈戏剧职业学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.37650499999999,
+    "latitude" : 23.192888,
+    "number" : "81",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广东生态工程职业学院",
+    "department" : "广东省"
+  },
+  {
+    "mark" : "",
+    "longitude" : 108.744801,
+    "latitude" : 34.428072,
+    "number" : "82",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "公安边防部队高等专科学校",
+    "department" : "公安部"
+  },
+  {
+    "mark" : "",
+    "longitude" : 113.25499600000001,
+    "latitude" : 23.132017999999999,
+    "number" : "83",
+    "degree" : "专科",
+    "location" : "广州市",
+    "schoolname" : "广州卫生职业技术学院",
+    "department" : "广东省"
+  }
+]

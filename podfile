@@ -1,0 +1,8 @@
+platform:ios,'10.0'
+use_frameworks!
+target 'GZ-University' do
+pod 'SnapKit'
+pod 'AMapSearch'
+#pod 'PSea+RxSwift'
+end
+

@@ -9,6 +9,12 @@
 import UIKit
 
 class SortSchoolController: UIViewController {
+    
+    enum SortType {
+        case distance
+        case score
+    }
+    var sortType = SortType.distance
     var schools : [School]
     var didSelectSchool : ((_ school : School)->())?=nil
     lazy var tableView: UITableView = {
@@ -74,7 +80,13 @@ extension SortSchoolController:UITableViewDelegate,UITableViewDataSource {
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusable(withClass: SortSchoolTableViewCell.self)
-        cell.textLabel?.text = schools[indexPath.row].schoolname
+        cell.leftLabel.text = schools[indexPath.row].schoolname
+        if sortType == .distance {
+            cell.rightLabel.text = "\(String.init(format: "%.2lf", (schools[indexPath.row].distance ?? 0)/1000.0))km"
+        }else{
+            
+            cell.rightLabel.text = schools[indexPath.row].varScore
+        }
         return cell
     }
     
@@ -93,8 +105,10 @@ extension SortSchoolController:UITableViewDelegate,UITableViewDataSource {
                     switch source {
                         
                     case "distance":
+                        self?.sortType = .distance
                         self?.sortDistanceSchool()
                     case "varScore":
+                        self?.sortType = .score
                         self?.sortScoreSchool()
                     default:
                         break
